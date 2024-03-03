@@ -1,0 +1,11 @@
+/*
+css page for the homepage. it positions the main groups into three positions, 
+the banner at the top, the user welcome in the middle, and the users 
+information in the bottom. 
+*/
+
+
+.field-style-float-right {
+    float: right;
+    margin-left: 1em;
+}
