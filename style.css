@@ -8,4 +8,6 @@ information in the bottom.
 .field-style-float-right {
     float: right;
     margin-left: 1em;
+    width: 30%;
+    height: 30%;
 }
